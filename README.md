@@ -6,21 +6,21 @@ Fullstack and Mobile application that administrates Barber Shops' appointments a
 
 ### Back-end
 
-- Node.js
-- Express.js
-- TypeScript
-- ts-node-dev
-- editorconfig
-- ESLint
-- Prettier
-- uuidv4
-- date-fns
-- Postgres
-- TypeORM
-- Bcryptjs
-- JWT
-- Multer
-- Express async errors
+* Node.js
+* Express.js
+* TypeScript
+* ts-node-dev
+* editorconfig
+* ESLint
+* Prettier
+* uuidv4
+* date-fns
+* Postgres
+* TypeORM
+* Bcryptjs
+* JWT
+* Multer
+* Express async errors
 
 Under construction.
 
